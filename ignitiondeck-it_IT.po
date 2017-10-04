@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: IgnitionDeck\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-23 11:50-0500\n"
-"PO-Revision-Date: 2017-10-04 17:09+0200\n"
+"PO-Revision-Date: 2017-10-04 19:05+0200\n"
 "Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
 "Language-Team: Virtuous Giant <info@virtuousgiant.com>\n"
 "Language: it\n"
@@ -32,12 +32,10 @@ msgid "Project Image 2"
 msgstr "Immagine del Progetto"
 
 #: classes/class-id_fes.php:89
-#, fuzzy
 msgid "Project Image 3"
 msgstr "Immagine del Progetto"
 
 #: classes/class-id_fes.php:105
-#, fuzzy
 msgid "Project Image 4"
 msgstr "Immagine del Progetto"
 
@@ -46,7 +44,6 @@ msgid "Project Reward Levels"
 msgstr "Livelli di Compenso del Progetto"
 
 #: classes/class-id_fes.php:137
-#, fuzzy
 msgid "Number of Levels"
 msgstr "Numero Massimo di Pagamenti"
 
@@ -88,63 +85,54 @@ msgstr "Descrizione del Livello"
 #: classes/class-id_fes.php:260 classes/class-id_fes.php:353
 #: classes/class-id_fes.php:440 ign_metabox/init.php:634
 #: ignitiondeck-postmeta.php:196
-#, fuzzy
 msgid "Level Long Description"
-msgstr "Level Description"
+msgstr "Descrizione lunga del livello"
 
 #: classes/class-id_fes.php:451 languages_default/text_variables.php:20
 msgid "Update"
 msgstr "Aggiornare"
 
 #: classes/class-id_fes.php:451
-#, fuzzy
 msgid "Update Submission"
-msgstr "Opzioni di Aggiornamento"
+msgstr "Aggiorna sottoscrizione"
 
 #: classes/class-id_fes.php:459
 msgid "Save Draft"
-msgstr ""
+msgstr "Salva bozza"
 
 #: classes/class-id_fes.php:459
-#, fuzzy
 msgid "Update Draft"
-msgstr "Aggiornare"
+msgstr "Aggiorna la bozza"
 
 #: classes/class-id_fes.php:465
 msgid "Submit for Review"
-msgstr ""
+msgstr "Invia per approvazione"
 
 #: classes/class-id_fes.php:491
-#, fuzzy
 msgid "Project Information"
-msgstr "Informazioni per il Pagamento"
+msgstr "Informazioni sul progetto"
 
 #: classes/class-id_fes.php:492 languages_default/text_variables.php:337
-#, fuzzy
 msgid "Project Title"
-msgstr "Tipologia di Progetto"
+msgstr "Titolo del progetto"
 
 #: classes/class-id_fes.php:505
-#, fuzzy
 msgid "Goal Amount"
-msgstr "Massimo Ammontare Totale"
+msgstr "Cifra da raggiungere"
 
 #: classes/class-id_fes.php:525 ignitiondeck-admin.php:48
-#, fuzzy
 msgid "Project Category"
-msgstr "Nome del Progetto"
+msgstr "Categoria del progetto"
 
 #: classes/class-id_fes.php:543
-#, fuzzy
 msgid "Close on End"
-msgstr "Chiuso"
+msgstr "Chiudi alla data di termine"
 
 #: classes/class-id_fes.php:555
 msgid "Leave Open"
-msgstr ""
+msgstr "Lascia aperto dopo la data di termine"
 
 #: classes/class-id_fes.php:568
-#, fuzzy
 msgid "Start Date"
 msgstr "Data di Inizio"
 
@@ -157,33 +145,28 @@ msgid "Project Details"
 msgstr "Dettagli del Progetto"
 
 #: classes/class-id_fes.php:595 ignitiondeck-postmeta.php:143
-#, fuzzy
 msgid "Project Short Description"
-msgstr "Descrizione Breve"
+msgstr "Descrizione breve del progetto"
 
 #: classes/class-id_fes.php:608
-#, fuzzy
 msgid "Project Video"
-msgstr "Prezzo del Progetto"
+msgstr "Video del progetto"
 
 #: classes/class-id_fes.php:620 ignitiondeck-postmeta.php:151
-#, fuzzy
 msgid "Project Long Description"
-msgstr "Descrizione Estesa"
+msgstr "Descrizione estesa del progetto"
 
 #: classes/class-id_fes.php:633
-#, fuzzy
 msgid "Project FAQ"
 msgstr "Domande Frequenti (FAQ) sul Progetto"
 
 #: classes/class-id_fes.php:646
-#, fuzzy
 msgid "Project Images"
-msgstr "Immagine del Progetto"
+msgstr "Immagini del progetto"
 
 #: classes/class-id_fes.php:647
 msgid "Featured Image"
-msgstr ""
+msgstr "Immagine predefinita"
 
 #: idf/ignitiondeck-idf.php:54
 msgid "WooCommerce Shortcode"
@@ -194,14 +177,16 @@ msgid ""
 "If matching IgnitionDeck project to WooCommerce products, please enter the "
 "product ID here."
 msgstr ""
+"Se stai collegando un progetto IngitionDeck ad un prodotto WooCommerce per "
+"favore inserisci l'ID del prodotto."
 
 #: idf/ignitiondeck-idf.php:63 idf/ignitiondeck-idf.php:272
 msgid "Otherwise, leave this field blank."
-msgstr ""
+msgstr "Altrimenti lascia questo campo bianco"
 
 #: idf/ignitiondeck-idf.php:64
 msgid "Product ID"
-msgstr "Product ID"
+msgstr "ID prodotto"
 
 #: idf/ignitiondeck-idf.php:263
 msgid "EDD Download ID"
@@ -222,9 +207,8 @@ msgid "Checkout"
 msgstr "Checkout"
 
 #: idf/ignitiondeck-idf.php:529
-#, fuzzy
 msgid "Exchange Product ID"
-msgstr "Product ID"
+msgstr "Cambia ID prodotto"
 
 #: idf/ignitiondeck-idf.php:531
 msgid ""
@@ -238,20 +222,17 @@ msgstr "Livello"
 
 #: ign_metabox/init.php:314 ign_metabox/init.php:632
 #: ignitiondeck-postmeta.php:212
-#, fuzzy
 msgid "Level Order"
-msgstr "Prezzo del Livello"
+msgstr "Posizione livello"
 
 #: ign_metabox/init.php:315 ign_metabox/init.php:633
 #: ignitiondeck-postmeta.php:188
-#, fuzzy
 msgid "Level Short Description"
-msgstr "Level Description"
+msgstr "Descrizione del livello"
 
 #: ign_metabox/init.php:316
-#, fuzzy
 msgid "Level Long Descriptions"
-msgstr "Level Description"
+msgstr "Descrizione lunga del livello"
 
 #: ign_metabox/init.php:337 languages_default/text_variables.php:284
 msgid "Add Level"
@@ -264,17 +245,14 @@ msgstr "Cancella l'ultimo livello"
 #: ignitiondeck-admin.php:8 ignitiondeck-enterprise.php:1160
 #: ignitiondeck-functions.php:517 ignitiondeck-functions.php:544
 #: ignitiondeck-functions.php:639 ignitiondeck-functions.php:734
-#, fuzzy
 msgid "projects"
 msgstr "Progetti"
 
 #: ignitiondeck-admin.php:47
-#, fuzzy
 msgid "Project Categories"
-msgstr "Aggiornamenti del Progetto"
+msgstr "Categorie di progetto"
 
 #: ignitiondeck-admin.php:62
-#, fuzzy
 msgid "Project Types"
 msgstr "Tipologia di Progetto"
 
@@ -285,23 +263,21 @@ msgstr "Tipologia di Progetto"
 
 #: ignitiondeck-admin.php:130
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #: ignitiondeck-admin.php:131
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: ignitiondeck-admin.php:152 languages_default/text_variables.php:350
 msgid "None"
 msgstr ""
 
 #: ignitiondeck-admin.php:159
-#, fuzzy
 msgid "Pledge What You Want"
 msgstr "Impegna ciò che vuoi"
 
 #: ignitiondeck-admin.php:162
-#, fuzzy
 msgid "Level-Based"
 msgstr "A livelli"
 
@@ -360,7 +336,6 @@ msgid "IgnitionDeck Crowdfunding"
 msgstr "Logo Ignition Deck "
 
 #: ignitiondeck-admin.php:1402
-#, fuzzy
 msgid "Support"
 msgstr "Sostieni Adesso"
 
@@ -374,12 +349,15 @@ msgid ""
 "Your project is currently saved as a draft. You can see a preview %s%s%s here"
 "%s"
 msgstr ""
+"La bozza del tuo progetto è stata salvata, puoi visualizzarne un'anteprima %s"
+"%s%s qui%s"
 
 #: ignitiondeck-enterprise.php:856 ignitiondeck-enterprise.php:860
 msgid ""
 "You can visit this page at any time in order to continue editing your "
 "project."
 msgstr ""
+"Potrai modificare il tuo progetto in ogni momento visitando questa pagina."
 
 #: ignitiondeck-enterprise.php:859
 #, php-format
@@ -387,17 +365,21 @@ msgid ""
 "Your project has been submitted and is awaiting review. You can see a "
 "preview %s%s%s here%s"
 msgstr ""
+"Il tuo progetto è stato preso in carico dal sistema ed è in attesa di "
+"convalida. Puoi visualizzare un'antreprima %s%s%s qui%s"
 
 #: ignitiondeck-enterprise.php:863
 #, php-format
 msgid "Your project is live. You can view it %s%s%s here%s"
-msgstr ""
+msgstr "Il tuo progetto è stato pubbicato, puoi visualizzarlo %s%s%s qui%s"
 
 #: ignitiondeck-enterprise.php:864
 msgid ""
 "You may continue to add levels or edit content available to you on this "
 "screen."
 msgstr ""
+"Puoi continuare ad aggiungere livelli o a modificare il contenuto del "
+"progetto in questa schermata."
 
 #: ignitiondeck-enterprise.php:1043 ignitiondeck-enterprise.php:1196
 msgid "Backer Profile"
@@ -405,25 +387,23 @@ msgstr ""
 
 #: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
 msgid "days to go"
-msgstr ""
+msgstr "giorni rimanenti"
 
 #: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
 msgid "Successful"
 msgstr ""
 
 #: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
-#, fuzzy
 msgid "Ended"
 msgstr "Terminato il"
 
 #: ignitiondeck-enterprise.php:1138 ignitiondeck-enterprise.php:1326
 msgid "Raised"
-msgstr ""
+msgstr "Raccolti"
 
 #: ignitiondeck-enterprise.php:1160
-#, fuzzy
 msgid "Backed"
-msgstr "Indietro"
+msgstr "Sostenuto"
 
 #: ignitiondeck-enterprise.php:1161 ignitiondeck-enterprise.php:1357
 msgid "Joined"
@@ -446,18 +426,16 @@ msgid "Facebook"
 msgstr "Facebook"
 
 #: ignitiondeck-enterprise.php:1162 ignitiondeck-enterprise.php:1362
-#, fuzzy
 msgid "Google Plus"
 msgstr "Google+"
 
 #: ignitiondeck-enterprise.php:1233 ignitiondeck-enterprise.php:1418
 msgid "Creator Profile"
-msgstr ""
+msgstr "Profilo del creatore"
 
 #: ignitiondeck-enterprise.php:1353
-#, fuzzy
 msgid "Projects Created"
-msgstr "Nome del Progetto"
+msgstr "Progetti creati"
 
 #: ignitiondeck-enterprise.php:1397
 #, fuzzy
@@ -465,17 +443,16 @@ msgid "' Projects"
 msgstr "Progetti"
 
 #: ignitiondeck-enterprise.php:1400 ignitiondeck-enterprise.php:1432
-#, fuzzy
 msgid "'s Projects"
-msgstr "Progetti"
+msgstr "Progetti di"
 
 #: ignitiondeck-filters.php:25
 msgid "Hours"
-msgstr ""
+msgstr "Ore"
 
 #: ignitiondeck-postmeta.php:27
 msgid "Company Name"
-msgstr ""
+msgstr "Nome dell'azienda"
 
 #: ignitiondeck-postmeta.php:28
 #, fuzzy
@@ -484,41 +461,39 @@ msgstr "Nome del Progetto"
 
 #: ignitiondeck-postmeta.php:36
 msgid "Company Location"
-msgstr ""
+msgstr "Indirizzo dell'azienda"
 
 #: ignitiondeck-postmeta.php:37
 msgid "Location of the Company. Example: New York"
-msgstr ""
+msgstr "Indirizzo dell'azienda"
 
 #: ignitiondeck-postmeta.php:45
 msgid "Company URL"
-msgstr ""
+msgstr "Sito web dell'azienda"
 
 #: ignitiondeck-postmeta.php:46
 msgid "URL of the website of the Company. Example: http://example.com"
-msgstr ""
+msgstr "Sito web dell'azienda"
 
 #: ignitiondeck-postmeta.php:54
-#, fuzzy
 msgid "Company Facebook"
-msgstr "Facebook"
+msgstr "Pagina Facebook dell'azienda"
 
 #: ignitiondeck-postmeta.php:55
 msgid "Company Facebook page"
-msgstr ""
+msgstr "Pagina Facebook dell'azienda"
 
 #: ignitiondeck-postmeta.php:63
-#, fuzzy
 msgid "Company Twitter"
-msgstr "Twitter"
+msgstr "Profilo Twitter dell'azienda"
 
 #: ignitiondeck-postmeta.php:64
 msgid "Company Twitter page"
-msgstr ""
+msgstr "Profilo Twitter dell'azienda"
 
 #: ignitiondeck-postmeta.php:72
 msgid "Company Logo"
-msgstr ""
+msgstr "Logo dell'azienda"
 
 #: ignitiondeck-postmeta.php:80 languages_default/text_variables.php:299
 msgid ""
@@ -559,14 +534,12 @@ msgid "Funding Goal"
 msgstr "Obiettivo di Finanziamento"
 
 #: ignitiondeck-postmeta.php:120
-#, fuzzy
 msgid "Amount you are seeking to raise (required)"
 msgstr "Importo che si vuole raccogliere (richiesto)"
 
 #: ignitiondeck-postmeta.php:127
-#, fuzzy
 msgid "Proposed Start Date"
-msgstr "Data di spedizione proposta"
+msgstr "Data di inizio proposta"
 
 #: ignitiondeck-postmeta.php:128
 msgid "The date the project creator wishes to start funding"
@@ -577,7 +550,6 @@ msgid "Fundraising End Date"
 msgstr "Data di fine della raccolta fondi"
 
 #: ignitiondeck-postmeta.php:136
-#, fuzzy
 msgid "Date funding will end (recommended)"
 msgstr "Data finale per la raccolta fondi (consigliato)."
 
@@ -586,18 +558,16 @@ msgid "Used in the grid, widget areas, and on the purchase form"
 msgstr ""
 
 #: ignitiondeck-postmeta.php:152
-#, fuzzy
 msgid "Supports HTML. Used on project pages"
-msgstr "App.net sulla pagina del Progetto"
+msgstr "Supporta HTML. Usato nella pagina del progetto"
 
 #: ignitiondeck-postmeta.php:159
-#, fuzzy
 msgid "Video Embed Code"
-msgstr "Codice Incluso (Embed Code)"
+msgstr "Codice embed del video"
 
 #: ignitiondeck-postmeta.php:160
 msgid "Video embed code using iframe or embed format (YouTube, Vimeo, etc)"
-msgstr ""
+msgstr "Codice per inserire il video utilizzando un iframe"
 
 #: ignitiondeck-postmeta.php:189
 msgid "Used in widgets sidebars, and in some cases, on the purchase form"
@@ -616,58 +586,53 @@ msgid ""
 "Enter a number of 0 (first) or higher if you wish to customize the placement "
 "of this level"
 msgstr ""
+"Inserisci un numero per modificare la posizione di questo livello. 0 è il "
+"livello più alto"
 
 #: ignitiondeck-postmeta.php:226
-#, fuzzy
 msgid "Additional Levels"
 msgstr "Livelli di Prezzo Aggiuntivi"
 
 #: ignitiondeck-postmeta.php:234
 msgid "Level Management"
-msgstr ""
+msgstr "Gestione livelli di pagamento"
 
 #: ignitiondeck-postmeta.php:244 languages_default/text_variables.php:225
 msgid "Image 2"
-msgstr "Image 2"
+msgstr "Immagine 2"
 
 #: ignitiondeck-postmeta.php:245
-#, fuzzy
 msgid ""
 "Image 2 - Shortcode: [project_image product=\"{product_number}\" image=\"2\"]"
-msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+msgstr "Immagine 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
 
 #: ignitiondeck-postmeta.php:252 languages_default/text_variables.php:227
 msgid "Image 3"
-msgstr "Image 3"
+msgstr "Immagine 3"
 
 #: ignitiondeck-postmeta.php:253
-#, fuzzy
 msgid ""
 "Image 3 - Shortcode: [project_image product=\"{product_number}\" image=\"3\"]"
-msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+msgstr "Immagine 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 
 #: ignitiondeck-postmeta.php:260 languages_default/text_variables.php:229
 msgid "Image 4"
-msgstr "Image 4"
+msgstr "Immagine 4"
 
 #: ignitiondeck-postmeta.php:261
-#, fuzzy
 msgid ""
 "Image 4 - Shortcode: [project_image product=\"{product_number}\" image=\"4\"]"
-msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+msgstr "Immagine 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
 
 #: ignitiondeck-postmeta.php:268
-#, fuzzy
 msgid "Project FAQs"
 msgstr "Domande Frequenti (FAQ) sul Progetto"
 
 #: ignitiondeck-postmeta.php:269
-#, fuzzy
 msgid "List Project FAQs here"
 msgstr "Domande Frequenti (FAQ) sul Progetto"
 
 #: ignitiondeck-postmeta.php:277
-#, fuzzy
 msgid "List Project Updates here"
 msgstr "Aggiornamenti del Progetto"
 
@@ -705,9 +670,8 @@ msgid "IgnitionDeck Shortcodes"
 msgstr "Logo Ignition Deck "
 
 #: ignitiondeck.php:1517
-#, fuzzy
 msgid "Project URL"
-msgstr "Progetto"
+msgstr "URL del progetto"
 
 #: ignitiondeck.php:1520
 msgid "Purchase URL"
@@ -1198,7 +1162,6 @@ msgid "Select Project"
 msgstr "Selezionare un Progetto"
 
 #: languages_default/text_variables.php:127
-#, fuzzy
 msgid "Select"
 msgstr "Selezionare un Progetto"
 
@@ -1566,24 +1529,20 @@ msgid "Main Project Image"
 msgstr "Immagine Principale del Progetto"
 
 #: languages_default/text_variables.php:224
-#, fuzzy
 msgid "Image 1 - Shortcode: [project_image product=\"1\" image=\"1\"]"
-msgstr "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
+msgstr "Immagine 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
 
 #: languages_default/text_variables.php:226
-#, fuzzy
 msgid "Image 2 - Shortcode: [project_image product=\"1\" image=\"2\"]"
-msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+msgstr "Immagine 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
 
 #: languages_default/text_variables.php:228
-#, fuzzy
 msgid "Image 3 - Shortcode: [project_image product=\"1\" image=\"3\"]"
-msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+msgstr "Immagine 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 
 #: languages_default/text_variables.php:230
-#, fuzzy
 msgid "Image 4 - Shortcode: [project_image product=\"1\" image=\"4\"]"
-msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+msgstr "Immagine 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
 
 #: languages_default/text_variables.php:231
 msgid "FAQs"
@@ -1594,7 +1553,7 @@ msgid ""
 "For those often asked questions that you would like to give a direct answer "
 "to. You can edit and add as much as needed."
 msgstr ""
-"Per quelle domande frequenti cui volete  rispondere direttmente. Potete "
+"Per quelle domande frequenti cui volete  rispondere direttamente. Potete "
 "entrare in modifica e aggiungere tutte quelle necessarie."
 
 #: languages_default/text_variables.php:234
@@ -2302,9 +2261,8 @@ msgid "Brazilian Real"
 msgstr ""
 
 #: templates/admin/_productSettings.php:52
-#, fuzzy
 msgid "Check All"
-msgstr "Cancella Tutto"
+msgstr "Seleziona tutto"
 
 #: templates/admin/_productSettings.php:171
 msgid "Automatically insert project template"
