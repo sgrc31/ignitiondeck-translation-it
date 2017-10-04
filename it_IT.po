@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: The Needs wp theme italian translantion v0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-15 12:24+0500\n"
-"PO-Revision-Date: 2017-10-04 17:14+0200\n"
+"PO-Revision-Date: 2017-10-04 18:28+0200\n"
 "Language-Team: s.guercio@gmail.com\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,15 +20,15 @@ msgstr ""
 
 #: 404.php:21
 msgid "404 Error"
-msgstr ""
+msgstr "Errore 404"
 
 #: 404.php:22
 msgid "The Page You Are Looking For Does not Exists, Please Try Again"
-msgstr ""
+msgstr "La pagina che stai cercando non esiste, per favore riprova"
 
 #: 404.php:39
 msgid "404"
-msgstr ""
+msgstr "Errore 404"
 
 #: 404.php:40
 msgid "oops!"
@@ -36,15 +36,15 @@ msgstr ""
 
 #: 404.php:40
 msgid "Page Not Found!"
-msgstr ""
+msgstr "Pagina non trovata!"
 
 #: 404.php:41
 msgid "The Requested Page Cannt be Found"
-msgstr ""
+msgstr "La pagina richiesta non è stata trovata"
 
 #: 404.php:43 search.php:160
 msgid "Enter your words for search again"
-msgstr ""
+msgstr "Digita nuovamente le parole da cercare"
 
 #: archive.php:52
 msgid "Archive Posts Listed On This Page"
@@ -58,7 +58,7 @@ msgstr ""
 #: archive.php:135 featured-content.php:85 index.php:139 search.php:108
 #: single.php:120 framework/options/page-elements.php:115
 msgid "Pages:"
-msgstr ""
+msgstr "Pagine:"
 
 #: archive.php:144 index.php:148 search.php:117
 #: framework/extensions/plugins/cp-addons-for-vc/modules/theneeds_blog_posts.php:294
@@ -66,7 +66,7 @@ msgstr ""
 #: framework/extensions/plugins/cp-addons-for-vc/modules/theneeds_blog_posts.php:627
 #: framework/extensions/plugins/cp-addons-for-vc/modules/theneeds_blog_posts.php:844
 msgid "Read Details"
-msgstr ""
+msgstr "Leggi dettagli"
 
 #: archive.php:148 index.php:152 search.php:121
 msgid "Tags: "
@@ -74,51 +74,53 @@ msgstr ""
 
 #: archive.php:161 index.php:165 search.php:134
 msgid "Categories: "
-msgstr ""
+msgstr "Categorie: "
 
 #: comments.php:9
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
+"Questo post è protetto da password. Inserire la password per visualizzare i "
+"commenti."
 
 #: comments.php:14
 msgid "No Comment"
-msgstr ""
+msgstr "Nessun commento"
 
 #: comments.php:14
 msgid "One Comment"
-msgstr ""
+msgstr "Un commento"
 
 #: comments.php:14
 msgid "% Comments"
-msgstr ""
+msgstr "% commenti"
 
 #: comments.php:21
 msgid "Older Comments"
-msgstr ""
+msgstr "Commenti più vecchi"
 
 #: comments.php:22
 msgid "Newer Comments"
-msgstr ""
+msgstr "Commenti più recenti"
 
 #: comments.php:38
 msgid "Name *"
-msgstr ""
+msgstr "Nome *"
 
 #: comments.php:43
 msgid "Email *"
-msgstr ""
+msgstr "Email *"
 
 #: comments.php:47
 msgid "Subject *"
-msgstr ""
+msgstr "Oggetto *"
 
 #: comments.php:52
 msgid "Comments *"
-msgstr ""
+msgstr "Commenti *"
 
 #: comments.php:54
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Lascia un commento"
 
 #: featured-content.php:94
 #: framework/extensions/plugins/cp-addons-for-vc/modules/theneeds_blog_posts.php:721
