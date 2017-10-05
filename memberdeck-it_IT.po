@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IgnitionDeck Commerce\n"
 "POT-Creation-Date: 2017-07-14 15:17-0400\n"
-"PO-Revision-Date: 2017-10-04 17:11+0200\n"
+"PO-Revision-Date: 2017-10-05 04:02+0200\n"
 "Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
 "Language-Team: IgnitionDeck <hello@virtuousgiant.com>\n"
 "Language: it\n"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: .././classes/class-id-member-order.php:527
 msgid "Order was successfully deleted"
-msgstr ""
+msgstr "L'ordine è stato cancellato con successo"
 
 #: .././classes/class-id-member-renewals.php:51
 msgid "Product Renewal Notification"
@@ -73,31 +73,31 @@ msgstr ""
 #: .././idcommerce-functions.php:1151 .././idcommerce-functions.php:1586
 #: .././idcommerce-functions.php:1800 .././idcommerce-functions.php:2058
 msgid "Hello"
-msgstr ""
+msgstr "Ciao"
 
 #: .././classes/class-id-member-renewals.php:75
 msgid "Your product "
-msgstr ""
+msgstr "Il tuo prodotto"
 
 #: .././classes/class-id-member-renewals.php:75
 msgid " is about to expire"
-msgstr ""
+msgstr "sta per scadere"
 
 #: .././classes/class-id-member-renewals.php:77
 msgid "Please renew your product to avoid any inconvenience"
-msgstr ""
+msgstr "Per favore rinnova il tuo prodotto per evitare qualsiasi inconveniente"
 
 #: .././classes/class-id-member-renewals.php:82
 msgid "Days remaining"
-msgstr ""
+msgstr "Giorni rimanenti"
 
 #: .././classes/class-id-member-renewals.php:90 .././idcommerce.php:666
 msgid "Follow this link"
-msgstr ""
+msgstr "Segui questo link"
 
 #: .././classes/class-id-member-renewals.php:90 .././idcommerce.php:666
 msgid "to renew your product or use the address below"
-msgstr ""
+msgstr "per rinnovare il tuo prodotto oppure vai all'indirizzo qui sotto"
 
 #: .././classes/class-id-member.php:506 .././classes/class-id-member.php:529
 msgid "IDC Customer Export"
@@ -109,19 +109,19 @@ msgstr ""
 
 #: .././classes/modules/advanced_text_filters/advanced_text_filters_hooks.php:6
 msgid "donor"
-msgstr ""
+msgstr "donatore"
 
 #: .././classes/modules/advanced_text_filters/advanced_text_filters_hooks.php:9
 msgid "Donor"
-msgstr ""
+msgstr "Donatore"
 
 #: .././classes/modules/advanced_text_filters/advanced_text_filters_hooks.php:12
 msgid "Organization"
-msgstr ""
+msgstr "Organizzazione"
 
 #: .././classes/modules/advanced_text_filters/advanced_text_filters_hooks.php:15
 msgid "organization"
-msgstr ""
+msgstr "organizzazione"
 
 #: .././classes/modules/advanced_user_accounts/advanced_user_accounts_hooks.php:12
 msgid "Backer Registration"
@@ -147,7 +147,7 @@ msgstr ""
 #: .././classes/modules/profile_donations/templates/admin/_profileDonationsSettings.php:11
 #: .././templates/_editProfile.php:14
 msgid "Select Image"
-msgstr ""
+msgstr "Seleziona immagine"
 
 #: .././classes/modules/advanced_user_accounts/templates/creatorProfileFields.php:10
 msgid "Creator Tagline"
@@ -156,15 +156,15 @@ msgstr ""
 #: .././classes/modules/anon_checkout/anon_checkout_hooks.php:72
 #: .././idcommerce-functions.php:6669 .././idcommerce-functions.php:6731
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonimo"
 
 #: .././classes/modules/anon_checkout/templates/_anonCheckoutForm.php:4
 msgid "Donate anonymously"
-msgstr ""
+msgstr "Dona in maniera anonima"
 
 #: .././classes/modules/anon_checkout/templates/_anonCheckoutForm.php:7
 msgid "Leave a comment"
-msgstr ""
+msgstr "Lascia un commento"
 
 #: .././classes/modules/fee_mods/class-fee_mods_metaboxes.php:13
 #: .././templates/admin/_enterpriseSettings.php:14
@@ -342,10 +342,12 @@ msgid ""
 "The document is not in the correct format. Allowed formats are: PDF, JPG, "
 "JPEG, BMP, GIF, TIF, TIFF and PNG"
 msgstr ""
+"Il documento non è in un formato corretto. I formati accettati sono: PDF, "
+"JPG, JPEG, BMP, GIF, TIF, TIFF e PNG"
 
 #: .././classes/modules/lemonway/class-lemonway.php:554
 msgid "File size must be less than 4MB"
-msgstr ""
+msgstr "Il file non deve superare i 4MB"
 
 #: .././classes/modules/lemonway/class-lemonway.php:903
 msgid ""
@@ -867,15 +869,15 @@ msgstr ""
 
 #: .././idcommerce-filters.php:313
 msgid "Profile Updated!"
-msgstr ""
+msgstr "Profilo aggiornato!"
 
 #: .././idcommerce-filters.php:659
 msgid "Your account has been successfully created."
-msgstr ""
+msgstr "Il tuo account è stato creato con successo."
 
 #: .././idcommerce-filters.php:662
 msgid "Your account has been successfully updated."
-msgstr ""
+msgstr "Il tuo account è stato aggiornato con successo."
 
 #: .././idcommerce-filters.php:814 .././idcommerce-filters.php:822
 #: .././idcommerce-filters.php:989 .././idcommerce-filters.php:1411
@@ -922,7 +924,7 @@ msgstr ""
 
 #: .././idcommerce-filters.php:1509
 msgid "Draft"
-msgstr ""
+msgstr "Bozza"
 
 #: .././idcommerce-filters.php:1510
 msgid "Published (Live)"
@@ -1031,33 +1033,35 @@ msgstr ""
 
 #: .././idcommerce-functions.php:1783
 msgid "Complete Your Registration"
-msgstr ""
+msgstr "Completa la tua registrazione"
 
 #: .././idcommerce-functions.php:1802
 msgid "Thank you for your purchase of "
-msgstr ""
+msgstr "Grazie per aver acquistato"
 
 #: .././idcommerce-functions.php:1804
 msgid ""
 "Your order is almost ready to go. We just need you to click the link below "
 "to complete your registration"
 msgstr ""
+"Il tuo ordine è quasi completo. Fai click sul link qui sotto per completare "
+"la tua registrazione"
 
 #: .././idcommerce-functions.php:1812
 msgid "Thank you for your support"
-msgstr ""
+msgstr "Grazie per il tuo supporto"
 
 #: .././idcommerce-functions.php:2044
 msgid "Registration Confirmation"
-msgstr ""
+msgstr "Conferma registrazione"
 
 #: .././idcommerce-functions.php:2060
 msgid "Congratulations, your registration for "
-msgstr ""
+msgstr "Congratulazioni, la tua registrazione a"
 
 #: .././idcommerce-functions.php:2060
 msgid " was successful"
-msgstr ""
+msgstr "è stata completata con successo"
 
 #: .././idcommerce-functions.php:2062
 msgid ""
@@ -1065,6 +1069,10 @@ msgid ""
 "information below. Otherwise, please check your inbox for a second email "
 "with instructions for creating your password."
 msgstr ""
+"Se hai già creato una password puoi accedere in qualsiasi momento "
+"utilizzando le informazioni qui sotto. In caso contrario controlla la tua "
+"casella di posta per un'ulteriore email contenente le informazioni su come "
+"creare una password."
 
 #: .././idcommerce-functions.php:2067
 msgid "Username"
@@ -1292,15 +1300,15 @@ msgstr ""
 
 #: .././inc/idcommerce-ide.php:119
 msgid "My Projects"
-msgstr ""
+msgstr "I miei progetti"
 
 #: .././inc/idcommerce-ide.php:123 .././inc/idcommerce-ide.php:240
 msgid "Create Project"
-msgstr ""
+msgstr "Crea progetto"
 
 #: .././inc/idcommerce-ide.php:127
 msgid "Creator Account"
-msgstr ""
+msgstr "Account come creatore"
 
 #: .././inc/idcommerce-ide.php:278
 msgid "Subscription - Weekly"
@@ -1365,7 +1373,7 @@ msgstr ""
 
 #: .././inc/idcommerce-ide.php:575
 msgid "Attached File"
-msgstr ""
+msgstr "Allega file"
 
 #: .././inc/idcommerce-ide.php:588
 msgid "Delete Reward"
@@ -1377,7 +1385,7 @@ msgstr ""
 
 #: .././inc/idcommerce-ide.php:983
 msgid "New Project Submission"
-msgstr ""
+msgstr "Crea un Nuovo Progetto"
 
 #: .././inc/idcommerce-ide.php:996
 msgid "Project Submission Notification"
@@ -1385,23 +1393,23 @@ msgstr ""
 
 #: .././inc/idcommerce-ide.php:1000
 msgid "You have a new project submission from user "
-msgstr ""
+msgstr "Nuovo progetto proposto da"
 
 #: .././inc/idcommerce-ide.php:1000
 msgid " with the following attributes"
-msgstr ""
+msgstr "con le seguenti caratteristiche"
 
 #: .././inc/idcommerce-ide.php:1005 .././inc/idcommerce-ide.php:1136
 msgid "Title"
-msgstr ""
+msgstr "Titolo"
 
 #: .././inc/idcommerce-ide.php:1006 .././inc/idcommerce-ide.php:1137
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #: .././inc/idcommerce-ide.php:1007 .././inc/idcommerce-ide.php:1138
 msgid "Goal"
-msgstr ""
+msgstr "Traguardo"
 
 #: .././inc/idcommerce-ide.php:1016
 msgid "Use this link"
@@ -1418,20 +1426,23 @@ msgstr ""
 #: .././inc/idcommerce-ide.php:1131
 msgid "Congratulations. The following project has been submitted for approval"
 msgstr ""
+"Congratulazioni. Il progetto è stato inviato ed è in attesa di approvazione"
 
 #: .././inc/idcommerce-ide.php:1147
 msgid ""
 "You will be notified when the review process has been completed. In the "
 "interim, you may use "
 msgstr ""
+"Ti comunicheremo quando il processo di verifica sarà terminato. Nel "
+"frattempo puoi visitare"
 
 #: .././inc/idcommerce-ide.php:1147
 msgid "this link"
-msgstr ""
+msgstr "questo link"
 
 #: .././inc/idcommerce-ide.php:1147
 msgid " to continue editing the project"
-msgstr ""
+msgstr "per modificare la pagina del progetto"
 
 #: .././inc/idcommerce-ide.php:1203
 msgid "Project Success Notification (Backer)"
@@ -1455,39 +1466,39 @@ msgstr ""
 
 #: .././inc/idcommerce-ide.php:1351
 msgid "Update Information"
-msgstr ""
+msgstr "Aggiorna informazioni"
 
 #: .././inc/idcommerce-ide.php:1352
 msgid "Update Title"
-msgstr ""
+msgstr "Aggiorna titolo"
 
 #: .././inc/idcommerce-ide.php:1353
 msgid "Update Content"
-msgstr ""
+msgstr "Aggiorna contenuto"
 
 #: .././inc/idcommerce-ide.php:1389
 msgid "New Product"
-msgstr ""
+msgstr "Nuovo prodotto"
 
 #: .././inc/templates/_idcAddProductPopup.php:6 .././templates/_orderList.php:8
 #: .././templates/admin/_emailSettings.php:62
 #: .././templates/admin/_orderView.php:49
 #: .././templates/admin/_settingsMenu.php:49
 msgid "Product Name"
-msgstr ""
+msgstr "Nome prodotto"
 
 #: .././inc/templates/_idcAddProductPopup.php:10
 #: .././templates/admin/_orderView.php:55
 #: .././templates/admin/_settingsMenu.php:16
 #: .././templates/admin/_settingsMenu.php:53
 msgid "Product Price"
-msgstr ""
+msgstr "Prezzo prodotto"
 
 #: .././inc/templates/_idcAddProductPopup.php:14
 #: .././templates/admin/_orderView.php:61
 #: .././templates/admin/_settingsMenu.php:57
 msgid "Product Type"
-msgstr ""
+msgstr "Tipologia di prodotto"
 
 #: .././inc/templates/_idcAddProductPopup.php:17
 #: .././templates/admin/_settingsMenu.php:60
@@ -1726,7 +1737,7 @@ msgstr ""
 #: .././templates/admin/_orderView.php:98
 #: .././templates/admin/_userMenu.php:227
 msgid "First Name"
-msgstr ""
+msgstr "Nome"
 
 #: .././templates/_checkoutForm.php:81 .././templates/_checkoutForm.php:119
 #: .././templates/_editProfile.php:29 .././templates/_regForm.php:9
@@ -1734,7 +1745,7 @@ msgstr ""
 #: .././templates/admin/_orderView.php:104
 #: .././templates/admin/_userMenu.php:231
 msgid "Last Name"
-msgstr ""
+msgstr "Cognome"
 
 #: .././templates/_checkoutForm.php:85 .././templates/_checkoutForm.php:123
 #: .././templates/_regForm.php:13 .././templates/admin/_emailSettings.php:60
@@ -1742,24 +1753,24 @@ msgstr ""
 #: .././templates/admin/_orderView.php:110
 #: .././templates/admin/_userMenu.php:235
 msgid "Email Address"
-msgstr ""
+msgstr "Indirizzo Email"
 
 #: .././templates/_checkoutForm.php:94 .././templates/_checkoutForm.php:105
 #: .././templates/_editProfile.php:74 .././templates/_regForm.php:21
 msgid "Re-enter Password"
-msgstr ""
+msgstr "Reinserire password"
 
 #: .././templates/_checkoutForm.php:98
 msgid "Create an account"
-msgstr ""
+msgstr "Crea un account"
 
 #: .././templates/_checkoutForm.php:134
 msgid "Credit Card Info"
-msgstr ""
+msgstr "Dati carta di credito"
 
 #: .././templates/_checkoutForm.php:137
 msgid "Card Number"
-msgstr ""
+msgstr "Numero carta di credito"
 
 #: .././templates/_checkoutForm.php:137
 msgid "Credit Cards Accepted"
@@ -1929,53 +1940,55 @@ msgstr ""
 
 #: .././templates/_editProfile.php:21
 msgid "Display Name <span class=\"starred\">*</span>"
-msgstr ""
+msgstr "Nome visualizzato <span class=\"starred\">*</span>"
 
 #: .././templates/_editProfile.php:33
 msgid "Email Address <span class=\"starred\">*</span>"
-msgstr ""
+msgstr "Indirizzo mail <span class=\"starred\">*</span>"
 
 #: .././templates/_editProfile.php:38 .././templates/admin/_orderList.php:221
 #: .././templates/admin/_userMenu.php:243
 msgid "Bio"
-msgstr ""
+msgstr "Descrizione"
 
 #: .././templates/_editProfile.php:43
 msgid "Company Location"
-msgstr ""
+msgstr "Indirizzo dell'azienda"
 
 #: .././templates/_editProfile.php:48
 msgid "Website URL <span class=\"starred\">*</span>"
-msgstr ""
+msgstr "Sito web <span class=\"starred\">*</span>"
 
 #: .././templates/_editProfile.php:53 .././templates/admin/_orderList.php:225
 #: .././templates/admin/_userMenu.php:247
 msgid "Twitter URL"
-msgstr ""
+msgstr "Profilo Twitter"
 
 #: .././templates/_editProfile.php:57 .././templates/admin/_orderList.php:227
 #: .././templates/admin/_userMenu.php:249
 msgid "Facebook URL"
-msgstr ""
+msgstr "Profilo Facebook"
 
 #: .././templates/_editProfile.php:61 .././templates/admin/_orderList.php:229
 #: .././templates/admin/_userMenu.php:251
 msgid "Google URL"
-msgstr ""
+msgstr "Google+"
 
 #: .././templates/_editProfile.php:67
 msgid "Password Modification"
-msgstr ""
+msgstr "Modifica della password"
 
 #: .././templates/_editProfile.php:68
 msgid "Note:"
-msgstr ""
+msgstr "NB:"
 
 #: .././templates/_editProfile.php:68
 msgid ""
 "changing your password will clear login cookies. You will need to login "
 "again after saving."
 msgstr ""
+"modificare la tua password eliminerà i cookies di login. Dovrai effettuare "
+"nuovamente il login."
 
 #: .././templates/_editProfile.php:80
 msgid "Payment Settings"
@@ -2008,20 +2021,27 @@ msgid ""
 "once, and then select &lsquo;enable instant checkout&rsquo; from this "
 "screen, and click 'Update Profile' below."
 msgstr ""
+"Con instant checkout abilitato puoi pagare con carta di credito senza "
+"reinserire le informazioni. Per attivarlo inserisci i dati della tua carta "
+"di credito al primo checkout e seleziona &lsquo;abilita l'instant "
+"checkout&rsquo; in questa schermata, poi fai click su 'Aggiorna profilo' qui "
+"sotto."
 
 #: .././templates/_editProfile.php:106
 msgid ""
 "Your credit card information is never stored on our servers, and is always "
 "processed securely."
 msgstr ""
+"Le informazioni relative alla tua carta di credito non vengono mai "
+"memorizzate sui nostri server, e sono sempre processate in maniera sicura."
 
 #: .././templates/_editProfile.php:112
 msgid "Enable Instant Checkout"
-msgstr ""
+msgstr "Abilità l'Instant Checkout"
 
 #: .././templates/_editProfile.php:118
 msgid "Update Profile"
-msgstr ""
+msgstr "Aggiorna profilo"
 
 #: .././templates/_enableCreator.php:1
 msgid "Become a Creator"
@@ -2079,11 +2099,11 @@ msgstr ""
 
 #: .././templates/_orderLightbox.php:42
 msgid "Thank you!"
-msgstr ""
+msgstr "Grazie!"
 
 #: .././templates/_orderLightbox.php:46
 msgid "Your order details:"
-msgstr ""
+msgstr "Dettagli del tuo ordine:"
 
 #: .././templates/_orderLightbox.php:59 .././templates/admin/_orderList.php:55
 #: .././templates/admin/_orderList.php:104
@@ -2096,15 +2116,15 @@ msgstr ""
 
 #: .././templates/_orderLightbox.php:76
 msgid "TOTAL"
-msgstr ""
+msgstr "TOTALE"
 
 #: .././templates/_orderLightbox.php:87
 msgid "Email confirmation will be sent to your Inbox soon"
-msgstr ""
+msgstr "Una email di conferma sarà inviata alla tua casella tra poco"
 
 #: .././templates/_orderLightbox.php:88
 msgid "Print receipt"
-msgstr ""
+msgstr "Stampa ricevuta"
 
 #: .././templates/_orderLightbox.php:96
 msgid "Tell your friends about it"
@@ -2148,7 +2168,7 @@ msgstr ""
 
 #: .././templates/_protectedPage.php:9
 msgid "Incorrect password"
-msgstr ""
+msgstr "Password errata"
 
 #: .././templates/_protectedPage.php:12
 msgid ""
@@ -2158,7 +2178,7 @@ msgstr ""
 
 #: .././templates/_protectedPage.php:15
 msgid "Username or Password should be not be empty"
-msgstr ""
+msgstr "I campi username e password non possono essere lasciati vuoti"
 
 #: .././templates/_purchasesBlocked.php:3
 msgid ""
@@ -2168,7 +2188,7 @@ msgstr ""
 
 #: .././templates/_regForm.php:29
 msgid "Complete Registration"
-msgstr ""
+msgstr "Completa la tua registrazione"
 
 #: .././templates/_scSignup.php:3
 msgid "Stripe"
@@ -2191,7 +2211,7 @@ msgstr ""
 
 #: .././templates/_shippingInfo.php:1
 msgid "Shipping Address"
-msgstr ""
+msgstr "Indirizzo di spedizione"
 
 #: .././templates/_shippingInfo.php:2
 msgid ""
